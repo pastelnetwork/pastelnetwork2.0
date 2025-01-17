@@ -4,6 +4,6 @@ As part of this transition, we are inviting dedicated and experienced validators
 
 ### **How to Get Involved**
 
-1. Review the [Validator Setup Guide](https://github.com/pastelnetwork/pastelnetwork2.0/blob/master/GENESIS_VALIDATOR_ONBOARDING.md) for technical requirements and setup instructions.
+1. Review the [Validator Setup Guide](https://github.com/pastelnetwork/pastelnetwork2.0/blob/master/VALIDATOR_GUIDE.md) for technical requirements and setup instructions.
 2. Apply to join the Genesis Validator Set.
 3. Participate in the testnet to help validate Lumera’s technology stack and network performance.
